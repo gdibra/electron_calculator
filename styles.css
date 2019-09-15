@@ -1,0 +1,35 @@
+body{
+    background-color: #F3DAD8;
+}
+h1{
+    font-size: 15px;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+*{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+#calculator{
+    max-width: 30em;
+    margin: 9em auto;
+}
+
+.b{
+    float: left;
+    padding: 0.1em 0.1em;
+}
+
+button{
+    border: none;
+    background-color: #FFBF69;
+    width: 11em;
+    height: 9.5em;
+}
+
+.b :hover{
+    box-shadow: 2px 2px 4px darkgrey;
+    background-color: #FF9F1C;
+}
