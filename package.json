@@ -17,6 +17,6 @@
   "author": "Gezim Dibra",
   "license": "",
   "devDependencies": {
-    "electron": "^6.0.9"
+    "electron": "^18.3.7"
   }
 }
